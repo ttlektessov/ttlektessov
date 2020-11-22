@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning front-end web development with Coursera.
+- ⚡ Fun fact: I found out this secret randomly, mostly because of video games.
 
 <!--
 **ttlektessov/ttlektessov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
