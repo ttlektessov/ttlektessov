@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning front-end web development with Coursera.
+- 🌱 I'm a leaf.
 - ⚡ Fun fact: I found out this secret randomly, mostly because of video games.
 
 <!--
